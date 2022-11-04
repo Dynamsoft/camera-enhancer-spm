@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DynamsoftCameraEnhancer",
-            url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-cameraenhancer-ios-2.3.3-xcframework.zip",
-            checksum: "72084c2bc4d1710ff37fd32f0e4f220e5fe42bc8bb69bd90fe409db511ce2060"
+            url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-cameraenhancer-ios-2.3.4-xcframework.zip",
+            checksum: "3dd7d0e5e69b20bd68c56da22c37c263d16d80f235bf1cf5ee6cc25313b7a515"
         ),
     ]
 )
